@@ -1,1 +1,3 @@
 # pwd_manager
+
+1. Certain parts of the source code are not uploaded here because doing so might pose security threats for all the user using this app...
