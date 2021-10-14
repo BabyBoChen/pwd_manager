@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import '../staticVariables.dart';
 import 'package:password_manager/models/personalInfo.dart';
-import '../models/pwdContext.dart';
 import '../models/website.dart';
 import '../models/rowState.dart';
 
